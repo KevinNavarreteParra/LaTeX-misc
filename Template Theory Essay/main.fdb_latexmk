@@ -1,13 +1,13 @@
 # Fdb version 4
-["biber main"] 1698015522 "main.bcf" "main.bbl" "main" 1698015526 0
-  "./works-cited.bib" 1698011367 185 9c0779df1188bb6a8f9c0036f741bdb3 ""
-  "main.bcf" 1698015526 204474 996cb367eeaad2662b82c3ed104f8254 "pdflatex"
+["biber main"] 1698017185 "main.bcf" "main.bbl" "main" 1698017189 0
+  "./works-cited.bib" 1698017182 157 4b2620e65535f012f37264b166626059 ""
+  "main.bcf" 1698017189 203376 6616a02b728e63d4a8a9aa548aaca739 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1698015525 "/Users/kevin/Desktop/LaTeX-misc/Template Theory Essay/main.tex" "main.pdf" "main" 1698015526 0
-  "/Users/kevin/Desktop/LaTeX-misc/Template Theory Essay/main.tex" 1698015521 9802 ea1a7a5c446b7111d331ec08b648f198 ""
+["pdflatex"] 1698017188 "/Users/kevin/Desktop/LaTeX-misc/Template Theory Essay/main.tex" "main.pdf" "main" 1698017189 0
+  "/Users/kevin/Desktop/LaTeX-misc/Template Theory Essay/main.tex" 1698017182 1672 38157a806e389c2700d0453059628bdf ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1136768653 1288 655e228510b4c2a1abe905c368440826 ""
@@ -54,7 +54,10 @@
   "/usr/local/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty" 1665067230 13815 760b0c02f691ea230f5359c4e1de23a7 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1673989714 30429 213676d4c7327a21d91ddaed900e7b81 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty" 1677186603 6107 5cfea8a675c58918b8c04be10261e48c ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty" 1675461949 4674 257c150d9d5c2fbc229303c8beaf6228 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/xparse/xparse.sty" 1675461949 6812 3c152a1c8d562d7b7291c4839b61a5c3 ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex" 1632168149 95525 6fd0552101a6b1f9b7a84b402ec435ba ""
+  "/usr/local/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.sty" 1632168149 14690 c2c754218a7108db7823a4839c1bc3cd ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/logreq/logreq.def" 1284153563 1620 fb1c32b818f2058eca187e5c41dfae77 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/logreq/logreq.sty" 1284153563 6187 b27afc771af565d3a9ff1ca7d16d0d46 ""
   "/usr/local/texlive/2023/texmf-dist/tex/latex/nowidow/nowidow.sty" 1316732299 1779 047ddae5c808452526118051abc46740 ""
@@ -66,10 +69,10 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1698014238 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1698014204 7883456 7e7532193a884414ed516c5fe0baff8a ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "main.aux" 1698015526 1744 208fc32bfca138f029ae917be2dccd8b "pdflatex"
-  "main.bbl" 1698015524 2067 09c8b5214c79eecfd698a5521a39eaae "biber main"
-  "main.run.xml" 1698015526 2408 b09865a78e6f87a583d7ddc398957d67 "pdflatex"
-  "main.tex" 1698015521 9802 ea1a7a5c446b7111d331ec08b648f198 ""
+  "main.aux" 1698017189 798 97a37e935df7fa04e365290b37b88213 "pdflatex"
+  "main.bbl" 1698017186 2044 6bc2270093f6d7bb343d32be52fe969e "biber main"
+  "main.run.xml" 1698017189 2408 b09865a78e6f87a583d7ddc398957d67 "pdflatex"
+  "main.tex" 1698017182 1672 38157a806e389c2700d0453059628bdf ""
   "turabian-formatting.sty" 1698011367 12895 b5f39f5a10e4770de25ecf9324cb7365 ""
   "turabian-researchpaper.cls" 1698011367 10305 318caa1c6526fba93b919a9330dfb540 ""
   (generated)

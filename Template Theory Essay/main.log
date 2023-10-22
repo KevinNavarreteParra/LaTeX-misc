@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.22)  22 OCT 2023 15:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.22)  22 OCT 2023 16:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -78,16 +78,29 @@ Package: ellipsis 2020/05/22 v1.8 fixes spacing around ellipses (three dots)
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
 LaTeX Info: Redefining \textellipsis on input line 77.
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty (/usr/local/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2023-02-22 L3 programming layer (loader) 
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count266
+\l__pdf_internal_box=\box51
+))
+Package: l3keys2e 2023-02-02 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count267
+\l__lipsum_a_int=\count268
+\l__lipsum_b_int=\count269
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count266
-\Gm@cntv=\count267
-\c@Gm@tempcnt=\count268
+\Gm@cnth=\count270
+\Gm@cntv=\count271
+\c@Gm@tempcnt=\count272
 \Gm@bindingoffset=\dimen143
 \Gm@wd@mp=\dimen144
 \Gm@odd@mp=\dimen145
@@ -114,10 +127,10 @@ Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
  (/usr/local/texlive/2023/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )))
-\c@section@level=\count269
+\c@section@level=\count273
 ) (/usr/local/texlive/2023/texmf-dist/tex/generic/xstring/xstring.sty (/usr/local/texlive/2023/texmf-dist/tex/generic/xstring/xstring.tex
-\integerpart=\count270
-\decimalpart=\count271
+\integerpart=\count274
+\decimalpart=\count275
 )
 Package: xstring 2023/01/14 v1.85 String manipulations (CT)
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.sty
@@ -129,7 +142,7 @@ Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count272
+\lrq@indent=\count276
  (/usr/local/texlive/2023/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) (/usr/local/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
@@ -138,49 +151,49 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count273
-\c@listtotal=\count274
-\c@listcount=\count275
-\c@liststart=\count276
-\c@liststop=\count277
-\c@citecount=\count278
-\c@citetotal=\count279
-\c@multicitecount=\count280
-\c@multicitetotal=\count281
-\c@instcount=\count282
-\c@maxnames=\count283
-\c@minnames=\count284
-\c@maxitems=\count285
-\c@minitems=\count286
-\c@citecounter=\count287
-\c@maxcitecounter=\count288
-\c@savedcitecounter=\count289
-\c@uniquelist=\count290
-\c@uniquename=\count291
-\c@refsection=\count292
-\c@refsegment=\count293
-\c@maxextratitle=\count294
-\c@maxextratitleyear=\count295
-\c@maxextraname=\count296
-\c@maxextradate=\count297
-\c@maxextraalpha=\count298
-\c@abbrvpenalty=\count299
-\c@highnamepenalty=\count300
-\c@lownamepenalty=\count301
-\c@maxparens=\count302
-\c@parenlevel=\count303
-\blx@tempcnta=\count304
-\blx@tempcntb=\count305
-\blx@tempcntc=\count306
-\c@blx@maxsection=\count307
-\blx@maxsegment@0=\count308
-\blx@notetype=\count309
-\blx@parenlevel@text=\count310
-\blx@parenlevel@foot=\count311
-\blx@sectionciteorder@0=\count312
-\blx@sectionciteorderinternal@0=\count313
-\blx@entrysetcounter=\count314
-\blx@biblioinstance=\count315
+\c@tabx@nest=\count277
+\c@listtotal=\count278
+\c@listcount=\count279
+\c@liststart=\count280
+\c@liststop=\count281
+\c@citecount=\count282
+\c@citetotal=\count283
+\c@multicitecount=\count284
+\c@multicitetotal=\count285
+\c@instcount=\count286
+\c@maxnames=\count287
+\c@minnames=\count288
+\c@maxitems=\count289
+\c@minitems=\count290
+\c@citecounter=\count291
+\c@maxcitecounter=\count292
+\c@savedcitecounter=\count293
+\c@uniquelist=\count294
+\c@uniquename=\count295
+\c@refsection=\count296
+\c@refsegment=\count297
+\c@maxextratitle=\count298
+\c@maxextratitleyear=\count299
+\c@maxextraname=\count300
+\c@maxextradate=\count301
+\c@maxextraalpha=\count302
+\c@abbrvpenalty=\count303
+\c@highnamepenalty=\count304
+\c@lownamepenalty=\count305
+\c@maxparens=\count306
+\c@parenlevel=\count307
+\blx@tempcnta=\count308
+\blx@tempcntb=\count309
+\blx@tempcntc=\count310
+\c@blx@maxsection=\count311
+\blx@maxsegment@0=\count312
+\blx@notetype=\count313
+\blx@parenlevel@text=\count314
+\blx@parenlevel@foot=\count315
+\blx@sectionciteorder@0=\count316
+\blx@sectionciteorderinternal@0=\count317
+\blx@entrysetcounter=\count318
+\blx@biblioinstance=\count319
 \labelnumberwidth=\skip54
 \labelalphawidth=\skip55
 \biblabelsep=\skip56
@@ -192,9 +205,9 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 \blx@bcfin=\read2
 \blx@bcfout=\write3
 \blx@langwohyphens=\language87
-\c@mincomprange=\count316
-\c@maxcomprange=\count317
-\c@mincompwidth=\count318
+\c@mincomprange=\count320
+\c@maxcomprange=\count321
+\c@mincompwidth=\count322
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/blx-dm.def
@@ -204,74 +217,74 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'chicago-authordate.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count319
-\c@savedafterword=\count320
-\c@annotator=\count321
-\c@savedannotator=\count322
-\c@author=\count323
-\c@savedauthor=\count324
-\c@bookauthor=\count325
-\c@savedbookauthor=\count326
-\c@commentator=\count327
-\c@savedcommentator=\count328
-\c@editor=\count329
-\c@savededitor=\count330
-\c@editora=\count331
-\c@savededitora=\count332
-\c@editorb=\count333
-\c@savededitorb=\count334
-\c@editorc=\count335
-\c@savededitorc=\count336
-\c@foreword=\count337
-\c@savedforeword=\count338
-\c@holder=\count339
-\c@savedholder=\count340
-\c@introduction=\count341
-\c@savedintroduction=\count342
-\c@namea=\count343
-\c@savednamea=\count344
-\c@nameb=\count345
-\c@savednameb=\count346
-\c@namec=\count347
-\c@savednamec=\count348
-\c@translator=\count349
-\c@savedtranslator=\count350
-\c@shortauthor=\count351
-\c@savedshortauthor=\count352
-\c@shorteditor=\count353
-\c@savedshorteditor=\count354
-\c@labelname=\count355
-\c@savedlabelname=\count356
-\c@institution=\count357
-\c@savedinstitution=\count358
-\c@lista=\count359
-\c@savedlista=\count360
-\c@listb=\count361
-\c@savedlistb=\count362
-\c@listc=\count363
-\c@savedlistc=\count364
-\c@listd=\count365
-\c@savedlistd=\count366
-\c@liste=\count367
-\c@savedliste=\count368
-\c@listf=\count369
-\c@savedlistf=\count370
-\c@location=\count371
-\c@savedlocation=\count372
-\c@organization=\count373
-\c@savedorganization=\count374
-\c@origlocation=\count375
-\c@savedoriglocation=\count376
-\c@origpublisher=\count377
-\c@savedorigpublisher=\count378
-\c@publisher=\count379
-\c@savedpublisher=\count380
-\c@language=\count381
-\c@savedlanguage=\count382
-\c@origlanguage=\count383
-\c@savedoriglanguage=\count384
-\c@pageref=\count385
-\c@savedpageref=\count386
+\c@afterword=\count323
+\c@savedafterword=\count324
+\c@annotator=\count325
+\c@savedannotator=\count326
+\c@author=\count327
+\c@savedauthor=\count328
+\c@bookauthor=\count329
+\c@savedbookauthor=\count330
+\c@commentator=\count331
+\c@savedcommentator=\count332
+\c@editor=\count333
+\c@savededitor=\count334
+\c@editora=\count335
+\c@savededitora=\count336
+\c@editorb=\count337
+\c@savededitorb=\count338
+\c@editorc=\count339
+\c@savededitorc=\count340
+\c@foreword=\count341
+\c@savedforeword=\count342
+\c@holder=\count343
+\c@savedholder=\count344
+\c@introduction=\count345
+\c@savedintroduction=\count346
+\c@namea=\count347
+\c@savednamea=\count348
+\c@nameb=\count349
+\c@savednameb=\count350
+\c@namec=\count351
+\c@savednamec=\count352
+\c@translator=\count353
+\c@savedtranslator=\count354
+\c@shortauthor=\count355
+\c@savedshortauthor=\count356
+\c@shorteditor=\count357
+\c@savedshorteditor=\count358
+\c@labelname=\count359
+\c@savedlabelname=\count360
+\c@institution=\count361
+\c@savedinstitution=\count362
+\c@lista=\count363
+\c@savedlista=\count364
+\c@listb=\count365
+\c@savedlistb=\count366
+\c@listc=\count367
+\c@savedlistc=\count368
+\c@listd=\count369
+\c@savedlistd=\count370
+\c@liste=\count371
+\c@savedliste=\count372
+\c@listf=\count373
+\c@savedlistf=\count374
+\c@location=\count375
+\c@savedlocation=\count376
+\c@organization=\count377
+\c@savedorganization=\count378
+\c@origlocation=\count379
+\c@savedoriglocation=\count380
+\c@origpublisher=\count381
+\c@savedorigpublisher=\count382
+\c@publisher=\count383
+\c@savedpublisher=\count384
+\c@language=\count385
+\c@savedlanguage=\count386
+\c@origlanguage=\count387
+\c@savedoriglanguage=\count388
+\c@pageref=\count389
+\c@savedpageref=\count390
 \shorthandwidth=\skip62
 \shortjournalwidth=\skip63
 \shortserieswidth=\skip64
@@ -295,19 +308,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count387
-\c@textcitetotal=\count388
-\c@textcitemaxnames=\count389
-\c@biburlbigbreakpenalty=\count390
-\c@biburlbreakpenalty=\count391
-\c@biburlnumpenalty=\count392
-\c@biburlucpenalty=\count393
-\c@biburllcpenalty=\count394
+\c@textcitecount=\count391
+\c@textcitetotal=\count392
+\c@textcitemaxnames=\count393
+\c@biburlbigbreakpenalty=\count394
+\c@biburlbreakpenalty=\count395
+\c@biburlnumpenalty=\count396
+\c@biburlucpenalty=\count397
+\c@biburllcpenalty=\count398
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count395
+\c@smartand=\count399
 )
 Package biblatex Info: Trying to load bibliography style 'chicago-authordate'...
 Package biblatex Info: ... file 'chicago-authordate.bbx' found.
@@ -315,10 +328,10 @@ Package biblatex Info: ... file 'chicago-authordate.bbx' found.
 File: chicago-authordate.bbx 2022/11/17 v 3.18b biblatex bibliography style
 \lositemsep=\skip76
 Package biblatex Info: Delimiter 'revsdnamedelim' in context '' already defined, overwriting.
-\cms@tempcnta=\count396
-\cms@tempcntb=\count397
-\c@bbx:relatedcount=\count398
-\c@bbx:relatedtotal=\count399
+\cms@tempcnta=\count400
+\cms@tempcntb=\count401
+\c@bbx:relatedcount=\count402
+\c@bbx:relatedtotal=\count403
 )
 Package biblatex Info: Trying to load citation style 'chicago-authordate'...
 Package biblatex Info: ... file 'chicago-authordate.cbx' found.
@@ -340,7 +353,7 @@ Package biblatex Info: Redefining '\cites'.
 Package biblatex Info: Redefining '\parencites'.
 Package biblatex Info: Redefining '\footcites'.
 Package biblatex Info: Redefining '\footcitetexts'.
-\c@cms@punct=\count400
+\c@cms@punct=\count404
 Package biblatex Info: Delimiter 'dateeradelim' in context '' already defined, overwriting.
 ))
 Package biblatex Info: Trying to load configuration file...
@@ -350,13 +363,6 @@ File: biblatex.cfg
 )
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Document encoding is UTF8 ....
- (/usr/local/texlive/2023/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2023-02-22 L3 programming layer (loader) 
- (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count401
-\l__pdf_internal_box=\box51
-))
 Package biblatex Info: ... and expl3
 (biblatex)             2023-02-22 L3 programming layer (loader) 
 (biblatex)             is new enough (at least 2020/04/06),
@@ -374,21 +380,21 @@ Package csquotes Info: ... none found.
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
-LaTeX Font Info:    ... okay on input line 37.
-LaTeX Info: Redefining \dots on input line 37.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Info: Redefining \dots on input line 38.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -444,18 +450,13 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (./main.bbl)
-Package biblatex Info: Reference section=0 on input line 37.
-Package biblatex Info: Reference segment=0 on input line 37.
+Package biblatex Info: Reference section=0 on input line 38.
+Package biblatex Info: Reference segment=0 on input line 38.
  [1
 
-{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (3.30185pt too wide) in paragraph at lines 50--51
-[]\OT1/cmr/m/n/12 Hume's pref-er-ence for lim-ited monar-chy par-tially shows its head in the Es-say \Whether
- []
+{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [1
 
-[1
-
-] [2] [3] [4] [5
+] [2] [3] [4] [5] [6
 
 ] (./main.aux)
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -463,18 +464,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12600 strings out of 476025
- 251851 string characters out of 5790016
- 1856388 words of memory out of 5000000
- 32965 multiletter control sequences out of 15000+600000
+ 13004 strings out of 476025
+ 261927 string characters out of 5790016
+ 1855388 words of memory out of 5000000
+ 33357 multiletter control sequences out of 15000+600000
  513591 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,5n,90p,1279b,3950s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,5n,90p,733b,3950s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (6 pages, 55357 bytes).
+Output written on main.pdf (7 pages, 48344 bytes).
 PDF statistics:
- 38 PDF objects out of 1000 (max. 8388607)
- 23 compressed objects within 1 object stream
+ 43 PDF objects out of 1000 (max. 8388607)
+ 27 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -19,42 +19,42 @@
 
 \refsection{0}
   \datalist[entry]{cms/global//global/global}
-    \entry{Hume_1985}{book}{}
+    \entry{test-doc}{book}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=8fd91102ac431dcdcc4641419cdfb8f0}{%
-           family={Hume},
-           familyi={H\bibinitperiod},
-           given={David},
-           giveni={D\bibinitperiod},
+        {{un=0,uniquepart=base,hash=26038a0a89d88ebc6540431783f100a7}{%
+           family={Navarrete},
+           familyi={N\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod},
            givenun=0}}%
       }
       \name{editor}{1}{}{%
-        {{hash=53771cfd552668d01ccba0ac529f5f06}{%
-           family={Miller},
-           familyi={M\bibinitperiod},
-           given={Eugene\bibnamedelima F.Editor},
-           giveni={E\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=62ee90061417f7f759bc2a73aafcbde6}{%
+           given={test},
+           giveni={t\bibinitperiod},
+           prefix={editor\bibnamedelima test},
+           prefixi={e\bibinitperiod\bibinitdelim t\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Liberty Fund}%
+        {Test Publishing}%
       }
-      \strng{namehash}{8fd91102ac431dcdcc4641419cdfb8f0}
-      \strng{fullhash}{8fd91102ac431dcdcc4641419cdfb8f0}
-      \strng{bibnamehash}{8fd91102ac431dcdcc4641419cdfb8f0}
-      \strng{authorbibnamehash}{8fd91102ac431dcdcc4641419cdfb8f0}
-      \strng{authornamehash}{8fd91102ac431dcdcc4641419cdfb8f0}
-      \strng{authorfullhash}{8fd91102ac431dcdcc4641419cdfb8f0}
-      \strng{editorbibnamehash}{53771cfd552668d01ccba0ac529f5f06}
-      \strng{editornamehash}{53771cfd552668d01ccba0ac529f5f06}
-      \strng{editorfullhash}{53771cfd552668d01ccba0ac529f5f06}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \strng{namehash}{26038a0a89d88ebc6540431783f100a7}
+      \strng{fullhash}{26038a0a89d88ebc6540431783f100a7}
+      \strng{bibnamehash}{26038a0a89d88ebc6540431783f100a7}
+      \strng{authorbibnamehash}{26038a0a89d88ebc6540431783f100a7}
+      \strng{authornamehash}{26038a0a89d88ebc6540431783f100a7}
+      \strng{authorfullhash}{26038a0a89d88ebc6540431783f100a7}
+      \strng{editorbibnamehash}{62ee90061417f7f759bc2a73aafcbde6}
+      \strng{editornamehash}{62ee90061417f7f759bc2a73aafcbde6}
+      \strng{editorfullhash}{62ee90061417f7f759bc2a73aafcbde6}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Essays: Moral, political and Literary}
-      \field{year}{1985}
+      \field{title}{Fake Document}
+      \field{year}{2023}
     \endentry
   \enddatalist
 \endrefsection

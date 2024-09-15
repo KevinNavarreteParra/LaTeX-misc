@@ -1,5 +1,5 @@
 % $ biblatex auxiliary file $
-% $ biblatex bbl format version 3.2 $
+% $ biblatex bbl format version 3.3 $
 % Do not modify the above lines!
 %
 % This is an auxiliary file used by the 'biblatex' package.
@@ -16,47 +16,5 @@
   {}
 \endgroup
 
-
-\refsection{0}
-  \datalist[entry]{cms/global//global/global}
-    \entry{test-doc}{book}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=26038a0a89d88ebc6540431783f100a7}{%
-           family={Navarrete},
-           familyi={N\bibinitperiod},
-           given={Kevin},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-      }
-      \name{editor}{1}{}{%
-        {{hash=62ee90061417f7f759bc2a73aafcbde6}{%
-           given={test},
-           giveni={t\bibinitperiod},
-           prefix={editor\bibnamedelima test},
-           prefixi={e\bibinitperiod\bibinitdelim t\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Test Publishing}%
-      }
-      \strng{namehash}{26038a0a89d88ebc6540431783f100a7}
-      \strng{fullhash}{26038a0a89d88ebc6540431783f100a7}
-      \strng{bibnamehash}{26038a0a89d88ebc6540431783f100a7}
-      \strng{authorbibnamehash}{26038a0a89d88ebc6540431783f100a7}
-      \strng{authornamehash}{26038a0a89d88ebc6540431783f100a7}
-      \strng{authorfullhash}{26038a0a89d88ebc6540431783f100a7}
-      \strng{editorbibnamehash}{62ee90061417f7f759bc2a73aafcbde6}
-      \strng{editornamehash}{62ee90061417f7f759bc2a73aafcbde6}
-      \strng{editorfullhash}{62ee90061417f7f759bc2a73aafcbde6}
-      \field{sortinit}{N}
-      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Fake Document}
-      \field{year}{2023}
-    \endentry
-  \enddatalist
-\endrefsection
 \endinput
 

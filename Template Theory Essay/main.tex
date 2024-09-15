@@ -19,13 +19,23 @@
 \usepackage[utf8]{inputenc}
 \usepackage{csquotes, ellipsis}
 \usepackage{lipsum}
+\usepackage{hyperref}
 
 % Specify paper size with geometry package
 \usepackage[pass, letterpaper]{geometry}
 
+\usepackage{setspace}
+\setstretch{2}
+
 % For citations, use the biblatex-chicago package
 \usepackage{biblatex-chicago}
 \addbibresource{works-cited.bib}
+
+
+\suppressbibfield{doi = false, isbn = true, url = false, eprint = false, urlstamp = false}
+\AtEveryBibitem{\clearfield{note}}
+\AtEveryBibitem{\clearfield{language}}
+\AtEveryBibitem{\clearfield{urldate}}
 
 % Information for title page
 \title{Title}
@@ -45,25 +55,7 @@
 % \section, \subsection, etc useful for essay sections
 
 % use \begin{quotation} and \end{quotation} for block quotes
-\section{Introduction}
 
-\lipsum[1]
-
-\section{Body 1}
-\lipsum[1-5]
-
-\section{Body 2}
-
-\lipsum[1][1-2]
-\begin{quotation}
-    \lipsum[10][1-4]\autocite{test-doc}
-\end{quotation}
-
-\subsection{Body 2.1}
-\lipsum[1-3]
-
-\section{Conclusion}
-\lipsum[1]
 
 \clearpage
 \printbibliography
